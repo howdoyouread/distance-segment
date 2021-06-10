@@ -14,4 +14,5 @@ while not b.is_pressed:
     sleep(0.5)
 # end program
 disp.fill(0)
+print('Thanks for your Patience!')
 
